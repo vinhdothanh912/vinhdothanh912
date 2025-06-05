@@ -13,7 +13,7 @@ Currently, I am interested in web development and system architecture.
 [![image](https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vinhdo2000/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinh.dothanh912@gmail.com)
 
-Look at my other Github Account: [VinhDo2000](https://github.com/vinhdothanh912)
+Look at my other Github Account: [vinhdothanh912](https://github.com/vinhdothanh912)
 
 [![image](https://img.shields.io/badge/GitHub-1f2328?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HieuPham2000)
 
